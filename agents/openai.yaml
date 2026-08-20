@@ -1,0 +1,4 @@
+interface:
+  display_name: "视频镜头连续性设计"
+  short_description: "为多镜头 AI 视频设计可生成、可剪辑的自然衔接接口"
+  default_prompt: "使用 $video-shot-continuity 分析这组镜头，并设计自然连续的镜头接口。"
